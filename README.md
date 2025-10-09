@@ -1,17 +1,20 @@
 # RSA-Encryption-and-Decryption[FINAL.docx](https://github.com/user-attachments/files/22748157/FINAL.docx)
 
 BABU BANARASI DAS UNIVERSITY
-<img width="317" height="342" alt="image" src="https://github.com/user-attachments/assets/d04d3bd4-9e88-4e5c-9612-8bfa0271a68c" />
-SCHOOL OF ENGINEERING 
-Department of Computer Science & Engineering
+
+  <img width="317" height="342" alt="image" src="https://github.com/user-attachments/assets/d04d3bd4-9e88-4e5c-9612-8bfa0271a68c" />
+
+SCHOOL OF COMPUTER APPLICATIONS 
+
+Department of Cyber Security and Forensics
 
 
 SUBMITTED BY :-                                   	                                                                             SUBMITTED TO :-
                                                           
 NAME – 
-1, abc (roll)
+1. Gopal Singh (roll)
 2. xyz (roll)
-SECTION – 
+SECTION – BCACS11
 
 
 ##
@@ -29,6 +32,9 @@ o	A secret file you want to hide (example: secret.txt)
 •	Place both files in the same folder (say, Desktop or Downloads).
 ##
 Step 1. Create a folder on your desktop screen.
+
+<img width="894" height="1100" alt="image" src="https://github.com/user-attachments/assets/e0453825-f4ad-4945-a919-06db6c19d24e" />
+
  
 Step 2. Put an  image inside that folder.
  
@@ -42,7 +48,6 @@ Step 6. Type ls (it shows total items in  that folder and actual name).
 
 
 
-# practical 2
  
 Step 7. Then type  “ echo Your message>> file name”.
  
