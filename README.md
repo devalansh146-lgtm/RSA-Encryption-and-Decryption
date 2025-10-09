@@ -37,6 +37,12 @@ Step 4. Then right click on screen.
 Step 5. Then select “ Open in Terminal”.
  
 Step 6. Type ls (it shows total items in  that folder and actual name).
+
+
+
+
+
+# practical 2
  
 Step 7. Then type  “ echo Your message>> file name”.
  
