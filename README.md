@@ -1,5 +1,19 @@
 # RSA-Encryption-and-Decryption[FINAL.docx](https://github.com/user-attachments/files/22748157/FINAL.docx)
 
+BABU BANARASI DAS UNIVERSITY
+<img width="317" height="342" alt="image" src="https://github.com/user-attachments/assets/d04d3bd4-9e88-4e5c-9612-8bfa0271a68c" />
+SCHOOL OF ENGINEERING 
+Department of Computer Science & Engineering
+
+
+SUBMITTED BY :-                                   	                                                                             SUBMITTED TO :-
+                                                          
+NAME – 
+1, abc (roll)
+2. xyz (roll)
+SECTION – 
+
+
 ##
 ### Practical:  Steganography using cmd
 ### Definition:
