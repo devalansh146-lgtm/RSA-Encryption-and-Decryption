@@ -10,13 +10,17 @@ SCHOOL OF COMPUTER APPLICATIONS
 Department of Cyber Security and Forensics
 
 
-SUBMITTED BY :-                                   	                                                                             SUBMITTED TO :-
+SUBMITTED BY :- 
+NAME – 1. Gopal Singh (1250264040)
+       2. Prince Sharma (1250264064)
+       3. Ansh Deval (1250264019)                                                                                           SUBMITTED TO :-
                                                                                                                              Mr. Anand Kumar Sir
-NAME – 
-1. Gopal Singh (1250264040)
-2. Prince Sharma (1250264064)
-3. Ansh Deval (1250264019)
-4. SECTION – BCACS11
+       4. SECTION – BCACS11                                                                              
+                                 	                                                                           
+
+
+                                                                                                                            
+
 
 
 # Steganography-using-cmd
