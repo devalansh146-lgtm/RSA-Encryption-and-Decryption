@@ -280,7 +280,7 @@ Practical:- <b> <i> Using Openstego for Steganography <i> </b> <br><br>
 <img width="623" height="321" alt="image" src="https://github.com/user-attachments/assets/276996d6-3e33-4717-b565-a26362176622" />
 
 <img width="1103" height="3" alt="image" src="https://github.com/user-attachments/assets/80d9a7fc-031f-4718-816f-fee3c1cb249f" />
-
+<br><br>
 
 # Practical 3
 
