@@ -282,23 +282,28 @@ Practical:- <b> <i> Using Openstego for Steganography <i> </b> <br><br>
 <img width="1103" height="3" alt="image" src="https://github.com/user-attachments/assets/80d9a7fc-031f-4718-816f-fee3c1cb249f" />
 
 
-Practical 3
+# Practical 3
 
-Practical name:- RSA encryption and decryption
+# Practical name:- 
+RSA encryption and decryption
 
 
 <img width="1103" height="3" alt="image" src="https://github.com/user-attachments/assets/80d9a7fc-031f-4718-816f-fee3c1cb249f" />
 
 
-DEFINITION:-  RSA encryption is the process of converting plaintext into ciphertext using a public key. It ensures that only the intended recipient, who holds the private key, can decrypt the message.
+# DEFINITION:- 
+              RSA encryption is the process of converting plaintext into ciphertext using a public key.
+			  It ensures that only the intended recipient, who holds the private key, can decrypt the message.
 
-TOOLS:-Online website using.
+# TOOLS:-
+         Online website using.
 
 
  <img width="1103" height="3" alt="image" src="https://github.com/user-attachments/assets/80d9a7fc-031f-4718-816f-fee3c1cb249f" />
 
  
-STEP 1:- Go to the search bar and search RSA encryption and decryption. 
+# STEP 1:- 
+         Go to the search bar and search RSA encryption and decryption. 
 
  
 <img width="940" height="516" alt="image" src="https://github.com/user-attachments/assets/7cdb5618-cde7-43ee-b992-5e9de5ea0ed9" />
@@ -310,7 +315,8 @@ STEP 1:- Go to the search bar and search RSA encryption and decryption.
 
 
 
-STEP 2:- Open fist website Dev Glan RSA Encryption Decryption & key generator tool online.
+# STEP 2:-
+          Open fist website Dev Glan RSA Encryption Decryption & key generator tool online.
 
 
 
@@ -320,7 +326,8 @@ STEP 2:- Open fist website Dev Glan RSA Encryption Decryption & key generator to
 <img width="1103" height="3" alt="image" src="https://github.com/user-attachments/assets/80d9a7fc-031f-4718-816f-fee3c1cb249f" />
 
 
-STEP 3:- Click on the generate RSA pair.
+# STEP 3:-
+         Click on the generate RSA pair.
 
 
 
@@ -332,7 +339,8 @@ STEP 3:- Click on the generate RSA pair.
 
 
 
-STEP 4:- Enter the text on  RSA encryption Box then click on the Encrypt.
+# STEP 4:- 
+           Enter the text on  RSA encryption Box then click on the Encrypt.
 
 
  <img width="986" height="564" alt="image" src="https://github.com/user-attachments/assets/f1f5af00-8e00-46e9-8e84-ecbb2fb3a744" />
@@ -340,7 +348,8 @@ STEP 4:- Enter the text on  RSA encryption Box then click on the Encrypt.
 <img width="1103" height="3" alt="image" src="https://github.com/user-attachments/assets/80d9a7fc-031f-4718-816f-fee3c1cb249f" />
 
 
-STEP 5 :- Copy the encrypted output and paste on the RSA Decryption Box.
+# STEP 5 :-
+           Copy the encrypted output and paste on the RSA Decryption Box.
 
 
 
@@ -351,7 +360,8 @@ STEP 5 :- Copy the encrypted output and paste on the RSA Decryption Box.
 
 
 
-STEP 6 :- Then click on the Decrypt . The you see the encrypted text in the decrypted output.
+# STEP 6 :-
+           Then click on the Decrypt . The you see the encrypted text in the decrypted output.
 
  
 <img width="1051" height="590" alt="image" src="https://github.com/user-attachments/assets/260aba64-8502-47d8-812e-725355446696" />
