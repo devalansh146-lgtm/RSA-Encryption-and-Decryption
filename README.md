@@ -261,11 +261,13 @@ Practical:- <b> <i> Using Openstego for Steganography <i> </b> <br><br>
  <img width="625" height="316" alt="image" src="https://github.com/user-attachments/assets/776b28a9-ca0b-4c96-b17e-e7f97c82aace" /><br><hr><br>
 
  
- <h2> (Step-4):-></h2> <h3> After that you will see a prompt which is shown in the below image. </h3> <br>
+ <h2> (Step-4):-></h2> <h3> --> After that you will see a prompt which is shown in the below image. </h3> 
+ 	<h3> --> You also see a text file is created automatically which the secret message is written which is hidden in the image...</h3>
+ <br>
 <img width="980" height="582" alt="image" src="https://github.com/user-attachments/assets/d3f3a149-a303-48ee-85fb-e96e6ae0ba19" /><br><hr><br>
 
 
-## After that a text file is created automatically which the secret message is written which is hidden in the image... <br><br>
+##  <br><br>
 
 
 
