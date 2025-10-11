@@ -274,3 +274,43 @@ Practical:- <b> <i> Using Openstego for Steganography <i> </b> <br><br>
 
 
 
+Practical 3
+
+Practical name:- RSA encryption and decryption
+
+DEFINITION:-  RSA encryption is the process of converting plaintext into ciphertext using a public key. It ensures that only the intended recipient, who holds the private key, can decrypt the message.
+
+TOOLS:-Online website using.
+ 
+STEP 1:- Go to the search bar and search RSA encryption and decryption. 
+
+ 
+<img width="940" height="516" alt="image" src="https://github.com/user-attachments/assets/7cdb5618-cde7-43ee-b992-5e9de5ea0ed9" />
+
+
+
+
+
+STEP 2:- Open fist website Dev Glan RSA Encryption Decryption & key generator tool online.
+
+ <img width="940" height="516" alt="image" src="https://github.com/user-attachments/assets/b711e456-2d9e-43bb-bb3f-691073ff8170" />
+
+
+STEP 3:- Click on the generate RSA pair.
+
+ <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/3276a07c-ecb2-409f-a57b-ebd08fe55154" />
+
+STEP 4:- Enter the text on  RSA encryption Box then click on the Encrypt.
+
+ <img width="986" height="564" alt="image" src="https://github.com/user-attachments/assets/f1f5af00-8e00-46e9-8e84-ecbb2fb3a744" />
+
+<img width="1103" height="3" alt="image" src="https://github.com/user-attachments/assets/80d9a7fc-031f-4718-816f-fee3c1cb249f" />
+
+STEP 5 :- Copy the encrypted output and paste on the RSA Decryption Box.
+
+
+<img width="986" height="564" alt="image" src="https://github.com/user-attachments/assets/28bf2564-384a-478b-b4d3-4b397e063ee7" />
+
+STEP 6 :- Then click on the Decrypt . The you see the encrypted text in the decrypted output.
+ 
+<img width="1051" height="590" alt="image" src="https://github.com/user-attachments/assets/260aba64-8502-47d8-812e-725355446696" />
