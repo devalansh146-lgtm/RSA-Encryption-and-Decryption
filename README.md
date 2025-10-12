@@ -368,3 +368,54 @@ RSA encryption and decryption
 
  
 <img width="1051" height="590" alt="image" src="https://github.com/user-attachments/assets/260aba64-8502-47d8-812e-725355446696" />
+<h1>Practical --> 4 </h1><br><br>
+
+# TOPIC:-
+RSA encryption and decryption
+
+# DEFINITION :-
+RSA  encryption is the process of converting plain text into cipher text  using a public key , It insures that only the intended recipient , who holds the private key , can decrypt the message.
+
+# TOOLS :-
+ 
+Online website  using
+ 
+# STEP 1:-
+Go to the search bar and search RSA encryption and decryption
+
+ <img width="1920" height="431" alt="1" src="https://github.com/user-attachments/assets/b5da131e-f974-4636-8e8c-e28e605892c1" />
+
+
+# STEP 2:-
+Open first website Dev glan RSA encryption decryption & key generator tool online
+
+ <img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/3196b0e4-12b5-4c6e-ba47-c907c98fbe70" />
+
+
+# STEP 3:- 
+Click on generate RSA pair 
+
+ <img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/b328be0b-f4d3-4a73-beaa-d21d06710b64" />
+
+
+# STEP 4:- 
+Enter the text  on RSA encryption box then click on encrypt
+
+<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/56cf313a-df8c-409a-887f-db89d4e03b60" />
+
+ 
+# STEP 5:-
+Copy the encrypted output and paste on the RSA decryption box
+
+ <img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/c743203e-7aae-4b23-9213-d221e8136544" />
+
+
+# STEP 6:- 
+Then click on the decrypt . Then you see the encrypted text in the decrypted output .
+
+ <img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/0664841a-e17b-4c6d-93ed-f0bf70bee1bf" />
+
+
+
+
+
