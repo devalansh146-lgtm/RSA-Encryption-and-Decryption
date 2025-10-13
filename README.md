@@ -44,25 +44,25 @@ Here’s how you can hide and extract files using the Command Prompt (CMD) — w
 
 	3. Place both files in the same folder (say, Desktop or Downloads).
 ##
-<h2><b>(Step-1):- </b></h2> <h3> Create a folder on your desktop screen.</h3>
+<h2><b></b>Step-1:- </h2> <h3> Create a folder on your desktop screen.</h3>
 
 
 <img width="894" height="1100" alt="image" src="https://github.com/user-attachments/assets/e0453825-f4ad-4945-a919-06db6c19d24e" />
 
  
-<h2><b>(Step-2):- </b></h2> <h3>Put an  image inside that folder.</h3>
+<h2><b>Step-2:- </b></h2> <h3>Put an  image inside that folder.</h3>
  
 <img width="975" height="601" alt="image" src="https://github.com/user-attachments/assets/82d4867f-5d18-4278-b6a2-fb765ccd25bb" />
 
-<h2><b>(Step-3):- </b></h2> <h3>Then open that folder.</h3>
+<h2><b>Step-3:- </b></h2> <h3>Then open that folder.</h3>
 
-<h2><b>(Step-4):- </b></h2>  <h3>Then right click on screen.</h3>
+<h2><b>Step-4:- </b></h2>  <h3>Then right click on screen.</h3>
 
-<h2><b>(Step-5):- </b></h2> <h3>Then select “ Open in Terminal”.</h3>
+<h2><b>Step-5:- </b></h2> <h3>Then select “ Open in Terminal”.</h3>
 
  <img width="975" height="574" alt="image" src="https://github.com/user-attachments/assets/e19451f8-ef19-4eee-a653-f017c7010093" />
 
-<h2><b>(Step-6):- </b></h2>  <h3>Type ls (it shows total items in  that folder and actual name).
+<h2><b>Step-6:- </b></h2>  <h3>Type ls (it shows total items in  that folder and actual name).
 </h3>
 
 <img width="974" height="546" alt="image" src="https://github.com/user-attachments/assets/0eff0773-8c8f-4cdd-86bb-9fe50a408de2" />
@@ -70,13 +70,13 @@ Here’s how you can hide and extract files using the Command Prompt (CMD) — w
 
 
  
-<h2><b>(Step-7):- </b></h2>  <h3>Then type  “ echo Your message>> file name”.</h3>
+<h2><b>Step-7:- </b></h2>  <h3>Then type  “ echo Your message>> file name”.</h3>
 
  <img width="975" height="186" alt="image" src="https://github.com/user-attachments/assets/2e8dcd45-a769-42c1-a3f3-e5245a7e970a" />
 
-<h2><b>(Step-8):- </b></h2>  <h3>Press enter.</h3>
+<h2><b>Step-8:- </b></h2>  <h3>Press enter.</h3>
 
-<h2><b>(Step-9):- </b></h2>  <h3>Then return to your folder and open that image with Notepad.</h3>
+<h2><b>Step-9:- </b></h2>  <h3>Then return to your folder and open that image with Notepad.</h3>
 
  <img width="975" height="586" alt="image" src="https://github.com/user-attachments/assets/7deb1349-62b1-408d-8b14-bffda0d0fa07" />
 
@@ -118,7 +118,7 @@ Practical:- <b> <i> Using Openstego for Steganography <i> </b> <br><br>
 
 <h1> ▶️How to hide the secret message in the sample file image</h1><br>
                                                        
-<h2><b>(Step-1):- </b></h2> <h3>First create a folder in which you store sample image (For eg...folder name=”stego”)Also store the secret message in the same folder </h3>
+<h2><b>Step-1:- </b></h2> <h3>First create a folder in which you store sample image (For eg...folder name=”stego”)Also store the secret message in the same folder </h3>
 
 <br>
 <img width="593" height="341" alt="image" src="https://github.com/user-attachments/assets/2dcfa53a-a4f7-4886-a274-a3f0078db056" />
@@ -127,7 +127,7 @@ Practical:- <b> <i> Using Openstego for Steganography <i> </b> <br><br>
 
 
  
-<h2><b>(Step-2):- </b></h2><h3> Then Open browser and type openstego.com </h3>
+<h2><b>Step-2:- </b></h2><h3> Then Open browser and type openstego.com </h3>
 
 <br>
 <img width="675" height="439" alt="image"  src="https://github.com/user-attachments/assets/954cbaf9-3119-4e30-aecb-fcbaa340c3f2" />
@@ -137,7 +137,7 @@ Practical:- <b> <i> Using Openstego for Steganography <i> </b> <br><br>
 
 
 
-<h2><b>(Step-3):- </b></h2><h3> Then Click on download:</h3> 
+<h2><b>Step-3:- </b></h2><h3> Then Click on download:</h3> 
 <br>
 <img width="623" height="313" alt="image" src="https://github.com/user-attachments/assets/a9e75484-03a8-4613-a080-f389b01f5473" />
 
@@ -146,7 +146,7 @@ Practical:- <b> <i> Using Openstego for Steganography <i> </b> <br><br>
 <br><br>
 
 
-<h2><b>(Step-4):-> </b></h2> <h3> Then click (openstego-0.86.zip) and your downloading got started... </h3>
+<h2><b>Step-4:-> </b></h2> <h3> Then click (openstego-0.86.zip) and your downloading got started... </h3>
 <br>
  <img width="623" height="336" alt="image" src="https://github.com/user-attachments/assets/7f3fe28f-6728-4b78-b4fd-cff92414743c" />
 
@@ -156,7 +156,7 @@ Practical:- <b> <i> Using Openstego for Steganography <i> </b> <br><br>
 
 
 
-<h2><b>(Step-5):-></b></h2><h3>  Then after download extract the file on the path of the folder which you have created:</h3>
+<h2><b>Step-5:-></b></h2><h3>  Then after download extract the file on the path of the folder which you have created:</h3>
  <br>
 <img width="623" height="154" alt="image" src="https://github.com/user-attachments/assets/28288d99-72af-46a3-864c-1e9580296eed" />
 
@@ -169,7 +169,7 @@ Practical:- <b> <i> Using Openstego for Steganography <i> </b> <br><br>
 
 
 
-<h2><b>(Step-6):-> </b></h2><h3> Then after extracting open the folder:</h3>
+<h2><b>Step-6:-> </b></h2><h3> Then after extracting open the folder:</h3>
 <br>
 <img width="623" height="343" alt="image" src="https://github.com/user-attachments/assets/abee443b-d2f6-4aec-b8a0-f7ba712bf8c8" />
 
@@ -178,7 +178,7 @@ Practical:- <b> <i> Using Openstego for Steganography <i> </b> <br><br>
 <br><br>
 
  
-<h2><b>(Step-7):-></b></h2><h3> Then click (lib folder) and open (Openstego software):</h3>
+<h2><b>Step-7:-></b></h2><h3> Then click (lib folder) and open (Openstego software):</h3>
 <br>
 <img width="624" height="307" alt="image" src="https://github.com/user-attachments/assets/93d0e68d-fd9c-4c83-8dfa-8c7e6820a5cc" />
 
@@ -188,7 +188,7 @@ Practical:- <b> <i> Using Openstego for Steganography <i> </b> <br><br>
 
 
 
-<h2><b>(Step-8):-></b></h2><h3> After opening you will see an interface in which You will see three option (message file),(cover file),(output file):</h3>
+<h2><b>Step-8:-></b></h2><h3> After opening you will see an interface in which You will see three option (message file),(cover file),(output file):</h3>
  <br>
 <img width="977" height="497" alt="image" src="https://github.com/user-attachments/assets/1b3f90d0-8609-4ee3-8ceb-1dc42845be53" />
 
@@ -198,7 +198,7 @@ Practical:- <b> <i> Using Openstego for Steganography <i> </b> <br><br>
 
 
 
-<h2><b>(Step-9):-></b></h2><h3> In message file we first input the secret message (text file) which you will created on notepad or any other platform... </h3>
+<h2><b>Step-9:-></b></h2><h3> In message file we first input the secret message (text file) which you will created on notepad or any other platform... </h3>
 <br>
 <img width="625" height="323" alt="image" src="https://github.com/user-attachments/assets/7c2878e2-6b63-4f13-838e-b43964f47e93" />
 
@@ -208,7 +208,7 @@ Practical:- <b> <i> Using Openstego for Steganography <i> </b> <br><br>
 
 
 
-<h2><b>(Step-10):-> </b></h2> <h3> Then in (Cover file) option we put the location of the image which is in your folder... </h3>
+<h2><b>Step-10:-> </b></h2> <h3> Then in (Cover file) option we put the location of the image which is in your folder... </h3>
 <br>
 <img width="623" height="331" alt="image" src="https://github.com/user-attachments/assets/edfeb4e4-0972-4919-8f0e-6ba55bf866c7" />
 
@@ -218,7 +218,7 @@ Practical:- <b> <i> Using Openstego for Steganography <i> </b> <br><br>
 
 
 
-<h2><b>(Step-11):-></b></h2> <h3> Then in (Output stego file) you will choose the location/path in which you want to store the output and also type the name of the your output file...</h3>
+<h2><b>Step-11:-></b></h2> <h3> Then in (Output stego file) you will choose the location/path in which you want to store the output and also type the name of the your output file...</h3>
 <br>
 <img width="623" height="311" alt="image" src="https://github.com/user-attachments/assets/107c6f98-7e8a-478b-8dfb-171dcc6d304b" />
 
@@ -226,14 +226,14 @@ Practical:- <b> <i> Using Openstego for Steganography <i> </b> <br><br>
 <br><br>
 
 
-<h2><b>(Step-12):-></b></h2><h3> Then after that click (Hide data) option after that you will see a prompt which is shown in the below image...  </h3><br>
+<h2><b>Step-12:-></b></h2><h3> Then after that click (Hide data) option after that you will see a prompt which is shown in the below image...  </h3><br>
 
 <img width="623" height="336" alt="image" src="https://github.com/user-attachments/assets/bba194f4-31c2-4c20-aace-d1f5a06b06a5" />
 
 <hr>
 <br><br>
 
-<h2><b>(Step-13):-></b></h2> <h3>  After that you will see the Image(in which the secret message is hidden).</h3><br>
+<h2><b>Step-13:-></b></h2> <h3>  After that you will see the Image(in which the secret message is hidden).</h3><br>
 
 <img width="624" height="331" alt="image" src="https://github.com/user-attachments/assets/b0a785b5-adc5-41dd-8010-f23530323f66" />
 
@@ -247,21 +247,21 @@ Practical:- <b> <i> Using Openstego for Steganography <i> </b> <br><br>
  
 <h1> ▶️ How to Extract Data (secret message) from the sample image...</h1><br>
 														   
-<h2>(Step-1):-> </h2> <h3>Click the (Extract Data) Option and you will see the two option (input Stego file) and (output folder for message file)</h3><br>
+<h2>Step-1:-> </h2> <h3>Click the (Extract Data) Option and you will see the two option (input Stego file) and (output folder for message file)</h3><br>
 
 <img width="624" height="329" alt="image" src="https://github.com/user-attachments/assets/7ee10a59-b414-42b4-bab0-4f4f9ecafc2f" /><br><hr><br>
 
- <h2>(Step-2):-></h2> <h3>In first option (input stego file) You will enter that image name which contain hidden message... </h3><br>
+ <h2>Step-2:-></h2> <h3>In first option (input stego file) You will enter that image name which contain hidden message... </h3><br>
  <img width="623" height="307" alt="image" src="https://github.com/user-attachments/assets/d85bb0a4-4897-440b-a266-40ca75f346bc" /><br><hr><br>
 
  
  
  
- <h2>(Step-3):-></h2> <h3> Then in second option(Output folder for message file) you enter the path in which you want to store the output Then click (Extract Data)</h3><br>
+ <h2>Step-3:-></h2> <h3> Then in second option(Output folder for message file) you enter the path in which you want to store the output Then click (Extract Data)</h3><br>
  <img width="625" height="316" alt="image" src="https://github.com/user-attachments/assets/776b28a9-ca0b-4c96-b17e-e7f97c82aace" /><br><hr><br>
 
  
- <h2> (Step-4):-></h2> <h3> --> After that you will see a prompt which is shown in the below image. </h3> 
+ <h2> Step-4:-></h2> <h3> --> After that you will see a prompt which is shown in the below image. </h3> 
  	<h3> --> You also see a text file is created automatically which the secret message is written which is hidden in the image...</h3>
  <br>
 <img width="980" height="582" alt="image" src="https://github.com/user-attachments/assets/d3f3a149-a303-48ee-85fb-e96e6ae0ba19" /><br><hr><br>
