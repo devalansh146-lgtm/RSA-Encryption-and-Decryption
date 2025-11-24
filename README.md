@@ -45,7 +45,6 @@ Used mainly for proof of concept in cybersecurity awareness.
 
 	2. clone it from github.
 
-	3. Place both files in the same folder (say, Desktop or Downloads).
 <img width="1296" height="729" alt="Screenshot 2025-11-24 145012" src="https://github.com/user-attachments/assets/d787ca33-594b-4280-a259-be977d825825" />
 <img width="1298" height="732" alt="Screenshot 2025-11-24 145156" src="https://github.com/user-attachments/assets/48ff1681-7049-4d34-8073-1024c1d15b38" />
 <img width="1299" height="731" alt="Screenshot 2025-11-24 145221" src="https://github.com/user-attachments/assets/089b224f-3822-4767-af44-44216da157bd" />
