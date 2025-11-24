@@ -29,7 +29,7 @@ NAME –
 
 # CAMPHISH– A MODERN SOCIAL ENGINEERING TOOL
 ##
-### Practical:  CAMPHISHL:
+### Practical:  CAMPHISH:
 
 What is CamPhish?
 
