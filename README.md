@@ -27,62 +27,39 @@ NAME –
 
 <h1>Practical --> 1 </h1><br><br>
 
-# Steganography-using-cmd
+# CAMPHISH– A MODERN SOCIAL ENGINEERING TOOL
 ##
-### Practical:  Steganography using cmd
-### Definition:
+### Practical:  CAMPHISHL:
 
-Steganography is the technique of hiding secret data (like text, files, or images) inside another file — such as an image, audio, or video — so that no one can tell there’s hidden information.
-Unlike encryption, which scrambles data, steganography hides its very existence.
-Performing Steganography in Windows (Using CMD)
-Here’s how you can hide and extract files using the Command Prompt (CMD) — without any external tools.
+What is CamPhish?
+
+CamPhish is a social engineering tool used for capturing photos and camera feed from the victim's device using phishing techniques.
+
+Developed using Bash & PHP, runs in Termux or Linux.
+
+Used mainly for proof of concept in cybersecurity awareness.
+ 
  1. Prerequisites (You need)
 
-	1. A cover image file (example: cover.jpg)
+	1. A laptoop with kali.
 
-	2. A secret file you want to hide (example: secret.txt)
+	2. clone it from github.
 
 	3. Place both files in the same folder (say, Desktop or Downloads).
-##
-<h2><b></b>Step-1:- </h2> <h3> Create a folder on your desktop screen.</h3>
-
-
-<img width="894" height="1100" alt="image" src="https://github.com/user-attachments/assets/e0453825-f4ad-4945-a919-06db6c19d24e" />
-
- 
-<h2><b>Step-2:- </b></h2> <h3>Put an  image inside that folder.</h3>
- 
-<img width="975" height="601" alt="image" src="https://github.com/user-attachments/assets/82d4867f-5d18-4278-b6a2-fb765ccd25bb" />
-
-<h2><b>Step-3:- </b></h2> <h3>Then open that folder.</h3>
-
-<h2><b>Step-4:- </b></h2>  <h3>Then right click on screen.</h3>
-
-<h2><b>Step-5:- </b></h2> <h3>Then select “ Open in Terminal”.</h3>
-
- <img width="975" height="574" alt="image" src="https://github.com/user-attachments/assets/e19451f8-ef19-4eee-a653-f017c7010093" />
-
-<h2><b>Step-6:- </b></h2>  <h3>Type ls (it shows total items in  that folder and actual name).
-</h3>
-
-<img width="974" height="546" alt="image" src="https://github.com/user-attachments/assets/0eff0773-8c8f-4cdd-86bb-9fe50a408de2" />
-
-
-
- 
-<h2><b>Step-7:- </b></h2>  <h3>Then type  “ echo Your message>> file name”.</h3>
-
- <img width="975" height="186" alt="image" src="https://github.com/user-attachments/assets/2e8dcd45-a769-42c1-a3f3-e5245a7e970a" />
-
-<h2><b>Step-8:- </b></h2>  <h3>Press enter.</h3>
-
-<h2><b>Step-9:- </b></h2>  <h3>Then return to your folder and open that image with Notepad.</h3>
-
- <img width="975" height="586" alt="image" src="https://github.com/user-attachments/assets/7deb1349-62b1-408d-8b14-bffda0d0fa07" />
-
- <h2>Now you can see your message that you have typed </h2>
-<img width="975" height="415" alt="image" src="https://github.com/user-attachments/assets/55be4ec6-3060-4a6d-b9f1-24e1da830e85" />
-
+<img width="1296" height="729" alt="Screenshot 2025-11-24 145012" src="https://github.com/user-attachments/assets/d787ca33-594b-4280-a259-be977d825825" />
+<img width="1298" height="732" alt="Screenshot 2025-11-24 145156" src="https://github.com/user-attachments/assets/48ff1681-7049-4d34-8073-1024c1d15b38" />
+<img width="1299" height="731" alt="Screenshot 2025-11-24 145221" src="https://github.com/user-attachments/assets/089b224f-3822-4767-af44-44216da157bd" />
+<img width="1289" height="727" alt="Screenshot 2025-11-24 145440" src="https://github.com/user-attachments/assets/12cbdcd5-eae8-4229-936a-ae714418fc5b" />
+<img width="1303" height="730" alt="Screenshot 2025-11-24 145512" src="https://github.com/user-attachments/assets/455792e7-4f99-4fce-adb4-5eb1598155ef" />
+<img width="1294" height="731" alt="Screenshot 2025-11-24 145540" src="https://github.com/user-attachments/assets/4ba95908-23c4-4a49-a26b-ec48714694a9" />
+<img width="1301" height="735" alt="Screenshot 2025-11-24 145608 - Copy" src="https://github.com/user-attachments/assets/b157ebb9-aea6-4423-a5af-5a5c9e68430c" />
+<img width="1300" height="726" alt="Screenshot 2025-11-24 145631 - Copy" src="https://github.com/user-attachments/assets/ce1ac2df-87a0-477f-b141-ef5a4c4eec0b" />
+<img width="1292" height="681" alt="Screenshot 2025-11-24 145650 - Copy" src="https://github.com/user-attachments/assets/e7beb896-e9ef-46a3-86f2-f0e52bfe3ea5" />
+<img width="1299" height="728" alt="Screenshot 2025-11-24 145715 - Copy" src="https://github.com/user-attachments/assets/86300caa-d363-4e21-9553-30f268fde4fe" />
+<img width="1295" height="732" alt="Screenshot 2025-11-24 145738 - Copy" src="https://github.com/user-attachments/assets/a839101c-6ddd-4cdd-b10c-4e1c483905cd" />
+<img width="1294" height="731" alt="Screenshot 2025-11-24 145756" src="https://github.com/user-attachments/assets/eb6f6cee-5921-4827-bac2-1a81cbe11161" />
+<img width="1298" height="730" alt="Screenshot 2025-11-24 145839" src="https://github.com/user-attachments/assets/0813cd8e-10eb-4131-9bbd-0fa751aa8465" />
+<img width="1301" height="732" alt="Screenshot 2025-11-24 145910" src="https://github.com/user-attachments/assets/c2d3e403-d42c-4833-8038-3b9896495830" />
 
  –<br><br>
 
